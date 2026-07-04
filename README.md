@@ -258,6 +258,8 @@ The project generates:
 - GitHub Project Organization
 
 ---
+##Deployed link
+https://futureml01-x2vbotugmsfqpd3tgnc9yx.streamlit.app/
 
 ## 🔮 Future Improvements
 
@@ -287,6 +289,7 @@ The project generates:
 - Matplotlib Documentation
 
 ---
+
 
 ## 📜 License
 
